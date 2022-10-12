@@ -22,18 +22,18 @@
 8)	Access Modifiers
 
 ## Stepdefination (cucumber Code)
-1)program to login to HRM Login. / 
-2)program to apply leave. /
-3)User method over loading for searching as discussed in the class assignment. /
+1)program to login to HRM Login.  <br />
+2)program to apply leave. 
+3)User method over loading for searching as discussed in the class assignment. 
 
 ## TestNG Framework- 
-1)program to HRM Login. /
-2)program to apply leave. /
-3)Method overload as discussed in the class assignment. /
+1)program to HRM Login. 
+2)program to apply leave. 
+3)Method overload as discussed in the class assignment. 
 
 ## Web Elements -
-1)Elements present on Login page. /
-2)Elements present on Dashboards 
+1)Elements present on Login page. 
+2)Elements present on Dashboards.
 
 
 
