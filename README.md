@@ -23,16 +23,16 @@
 
 ## Stepdefination (cucumber Code)
 1)program to login to HRM Login.  <br />
-2)program to apply leave. 
-3)User method over loading for searching as discussed in the class assignment. 
+2)program to apply leave. <br />
+3)User method over loading for searching as discussed in the class assignment. <br />
 
 ## TestNG Framework- 
-1)program to HRM Login. 
-2)program to apply leave. 
-3)Method overload as discussed in the class assignment. 
+1)program to HRM Login. <br />
+2)program to apply leave. <br />
+3)Method overload as discussed in the class assignment. <br />
 
 ## Web Elements -
-1)Elements present on Login page. 
+1)Elements present on Login page. <br />
 2)Elements present on Dashboards.
 
 
