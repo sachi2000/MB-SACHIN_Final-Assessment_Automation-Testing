@@ -2,14 +2,14 @@
 ## The SRC-Test/Java contains:
 
 ## Alert Handling-
-1)Confirmation 
-2)Prompt
-3)Simple.
+1)Confirmation <br />
+2)Prompt <br />
+3)Simple <br />
 
 ## Mouse actions-
-1)Click
-2)Drag & Drop
-3)Hover
+1)Click <br />
+2)Drag & Drop <br />
+3)Hover <br />
 
 ## Oops-
 1)	Override 
